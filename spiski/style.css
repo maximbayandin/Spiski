@@ -1,0 +1,29 @@
+h1 {
+	color: #FF8800;
+	text-align: center;
+	background: #7cfc00;
+	border: #FF8800 2px solid;
+	text-shadow: 0 0 10px black;
+
+}
+body {
+	background: #5B4CD8;
+	text-align: center;
+}
+h2 {
+	color: #FF8800;
+	text-align: center;
+	background: #7cfc00;
+	text-shadow: 0 0 10px black;
+	border: #FF8800 2px solid;
+}
+ol {
+	color: #adff2f;
+	text-align: center;
+	background: #5B4CD8
+}
+ul {
+	color: #adff2f;
+	text-align: center;
+	background: #5B4CD8
+}
